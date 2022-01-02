@@ -1,3 +1,6 @@
 branch1 update 
 not in master lets pull locally
 then merge with master
+local repo pull is done 
+lets push from local repo to github remote repo
+
