@@ -1,2 +1,5 @@
 git push or pull origin branchname
-#will only updates in perticular branchname 
+#will only updates in perticular branch name
+
+lets change in local and push only in origin branch1
+ 
